@@ -1,4 +1,4 @@
-### Olá! Eu sou a Sabrina Vitória 👋
+### Olá! Eu sou a Sabrina Vitória 👋 
 
 - 🔭 Atualmente trabalho como estágiaria desenvolvedora full-stack
 - 🌱 Estudando Angular

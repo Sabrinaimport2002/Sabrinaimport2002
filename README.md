@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Sabrina Vitória 👋 
 
 - 🔭 Trabalhando como estágiaria desenvolvedora full-stack
-- 🌱 Estudando Angular .NET
+- 🌱 Angular / .NET
 - 📫 Contate-me por email: sabrinaimport2002@gmail.com
 - ⚡ Curiosidades: amo gatinhos e comer chocolate 🐱‍👤🍫
 

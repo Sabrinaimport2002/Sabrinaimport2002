@@ -7,13 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/Sabrinaimport2002">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrinaimport2002&layout=compact&langs_count=7&theme=dracula"/>
-    <br>
-    <br> 
-    <br>
-    <br>
-    <br> 
-    <br>
     <br>
     <br> 
 </div>

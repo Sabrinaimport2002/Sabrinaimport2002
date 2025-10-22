@@ -6,7 +6,7 @@
   
   ### 👋 Olá! Seja bem-vindo(a) ao meu universo de código
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Desenvolvedora+Full-Stack;.NET+%7C+Angular+%7C+SQL+Server;Apaixonada+por+tecnologia+%F0%9F%92%BB;Caf%C3%A9%2C+c%C3%B3digo+e+gatos+%F0%9F%90%B1%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&repeat=true&width=600&lines=Desenvolvedora+Full-Stack;.NET+%7C+Angular+%7C+SQL+Server;Apaixonada+por+tecnologia+%F0%9F%92%BB;Dorama%2C+c%C3%B3digo+e+gatos+%F0%9F%93%BA%F0%9F%92%BB%F0%9F%90%B1" alt="Typing SVG" />
   
 </div>
 
@@ -108,7 +108,5 @@ const sabrina = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFB6C1&height=100&section=footer"/>
 
 **Feito com ❤️ e 🍫 por Sabrina Vitória**
-
-![Visitor Count](https://profile-counter.glitch.me/Sabrinaimport2002/count.svg)
 
 </div>
